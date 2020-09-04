@@ -1,3 +1,3 @@
 # Welcome to GitBasics.
 
-md = Markdown
+md = MarkDown
