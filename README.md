@@ -2,4 +2,4 @@
 
 md = MarkDown
 
-This is a new text from VS Code.
+This is a new text from VS Code. Listen to the master.
